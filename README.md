@@ -1,3 +1,3 @@
-# permixo-cy
+# liebsten-cy
 
-Permixo.cy parking page
+Liebsten.cy parking page

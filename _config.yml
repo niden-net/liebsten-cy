@@ -1,0 +1,23 @@
+app:
+  title: 'Liebsten Holdings Ltd'
+  name: 'Liebsten Holdings Ltd'
+  author: 'niden.net'
+  description: 'Liebsten Holdings Ltd website'
+  keywords: 'liebsten, holdings, liebsten holdings, under construction'
+  email: 'info@liebsten.cy'
+
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - serve
+
+
+
